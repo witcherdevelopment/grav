@@ -36,7 +36,7 @@ Thumbs.db
 *.swp
 
 # phpstorm
-
+.idea/*
 
 # testing stuff
 tests/_output/*
